@@ -1,0 +1,63 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="1" class="java.lang.String" itemvalue="numpy" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pymysql.cursors" />
+          <option value="loginlogout.models.User.objects" />
+          <option value="home.models.singup.objects" />
+          <option value="rest_framework_simplejwt.views.Record" />
+          <option value="rest_framework_simplejwt.views.Login" />
+          <option value="rest_framework_simplejwt.views.Logout" />
+          <option value="employee.models.Employees.objects" />
+          <option value="account.models.User.objects" />
+          <option value="api.models.Student.objects" />
+          <option value="loginlogout.models.Student.objects" />
+          <option value="RestAPI1.App1.models.distribute.objects" />
+          <option value="RestAPI1.App1.models.All_Assets.objects" />
+          <option value="RestAPI1.App1.models.details.objects" />
+          <option value="qrcode.make" />
+          <option value="app.models.All_Assets.objects" />
+          <option value="app.models.details.objects" />
+          <option value="apibase.models.Record.objects" />
+          <option value="apibase.models.emp.objects" />
+          <option value="app.tests.win32com" />
+          <option value="pdfrw.pdfwriter.PdfWriter.save" />
+          <option value="HandTrackingModule.handDetector.tipIds" />
+          <option value="speech_recognition" />
+          <option value="home.models.emp.objects" />
+          <option value="home.models.User.objects" />
+          <option value="Chintay_withoutapi.elder.home.models.Register.objects" />
+          <option value="datetime.datetime.datetime" />
+          <option value="app.models.Order.objects" />
+          <option value="app.models.Meal.objects" />
+          <option value="account.models.Registration.objects" />
+          <option value="verification.models.phoneModel.objects" />
+          <option value="enotes.models.Signup.objects" />
+          <option value="vehicle.models.Vehicle.objects" />
+          <option value="vehicle.models.Category.objects" />
+          <option value="django.core.serializers.ValidationError" />
+          <option value="elder.home.models.Register.objects" />
+          <option value="enotes.models.Notes.objects" />
+          <option value="django.db.models.fields.related.ForeignKey.first_name" />
+          <option value="home.models.Register.objects" />
+          <option value="models.user.Interger" />
+          <option value="models.user.String" />
+          <option value="config.database" />
+          <option value="config.metadata" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
